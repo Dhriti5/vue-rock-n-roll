@@ -44,6 +44,5 @@ methods:{
         this.newBand=''
     }
 }
-
 }
 </script>
